@@ -1,1 +1,2 @@
-# git_intro
+# Personal blog
+Author-Harshita Agarwal
